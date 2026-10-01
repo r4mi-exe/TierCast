@@ -1,0 +1,25 @@
+{
+  "name": "tiercast",
+  "version": "1.0.0",
+  "description": "Podcast shuffling application",
+  "keywords": [
+    "Podcast",
+    "Tiercast",
+    "Electron"
+  ],
+  "homepage": "https://github.com/r4mi-exe/TierCast#readme",
+  "bugs": {
+    "url": "https://github.com/r4mi-exe/TierCast/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r4mi-exe/TierCast.git"
+  },
+  "license": "ISC",
+  "author": "Syed, Rami",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
