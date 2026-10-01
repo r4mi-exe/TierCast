@@ -20,6 +20,10 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^44.5.1"
   }
 }
