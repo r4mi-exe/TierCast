@@ -25,7 +25,7 @@ const createPlayerWindow = () => {
     frame: false,
     alwaysOnTop: true,
     show: false
-  })
+  }) 
   playerWindow.loadFile('player.html');
 }
 
