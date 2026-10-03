@@ -25,5 +25,9 @@
   },
   "devDependencies": {
     "electron": "^44.5.1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "googleapis": "^182.0.0"
   }
 }
